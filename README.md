@@ -1,5 +1,5 @@
-# ANDROIDS TÖDLICHSTES FEATURE: 
-### Das VpnService-Dilemma
+# ANDROIDS TÖDLICHSTES FEATURE und die Kompliezen
+#### Das VpnService-Dilemma - kurz: "GOD-MODE" für Android
 ###### soon in english sorry.
 
 *Von Volkan Sah, Security Researcher*
