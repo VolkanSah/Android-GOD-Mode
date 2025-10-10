@@ -179,11 +179,8 @@ Dieses architektonische Versagen wird durch moderne **Code-generierende KIs** ex
 * **Beleg des Scheiterns:** Siehe den nach angeblich Best Practices gebauten [**DnsVpnService.kt**](DnsVpnService.kt) — Die KI lobt den Code, weil sie Syntax und Muster bewertet, nicht Systemkontext und Seiteneffekte. **Ein Disaster!**
 
 * [Dokumentation: Häufige DNS‑Sicherheitsfehler (kurz & praktisch)](dns.md)
-
 * [Defend DNS-Hijacking](DNS-Hijacking.md)
-
 * [Architekturtypen, die DNS‑MitM ermöglichen](DNS‑MitM.md)
-
 * [Think like a BlackHat-Hacker](systemerror.md)
 
 ### Volkan Kücükbudak (Security Researcher)
@@ -196,5 +193,6 @@ Dieser Artikel ist eine **Härtungsanleitung**, kein **Exploit-Guide**. Ich habe
 
 Wenn Du denkst, ich kann ein **verrückter Professor** werden, der die Wahrheit ans Licht bringt, lass ein ⭐ für diesen Artikel da, damit er mehr Menschen erreicht. Wenn Dir meine Art des Denkens gefällt und Du ein gutes Herz hast (und stinkreich bist 😉), freut sich meine Kaffeekasse oder eine neue Donut-Maschine.
 
-**Viva la Revolution!**
+**Viva la Revolution!** 
+> Copyright Volkan Kücükbudak
 
