@@ -14,7 +14,9 @@
 
 ## Der God-Mode: Wie Android Apps zu Allmacht verhilft
 
-Stellen Sie sich vor, Sie würden einer App erlauben, **jeden Ihrer Klicks** zu sehen, **jede Website** zu überwachen und **jede Ihrer Banking-Transaktionen** mitzuverfolgen. Klingt nach einem Albtraum? Das ist die Realität von Android's VPN-Permission.
+Stellen Sie sich vor, Sie erteilen einer einzigen App die Genehmigung, Ihren gesamten digitalen Fußabdruck zu lesen: jeder Klick, jede Website, sogar der gesamte Banking-Traffic. Das ist die schockierende Realität der Android VPN-Berechtigung.
+
+Mit einem einzigen Fingertipp – dem Initial-Klick des Nutzers – erhält die App den "God-Mode" über Ihr Gerät und Ihr Netzwerk. Technisch gesehen bedeutet dies:
 
 ```kotlin
 // So einfach ist der Totalzugriff:
@@ -28,6 +30,7 @@ class SpywareApp : VpnService() {
     }
 }
 ```
+**Das Perfide:** Würden Entwickler die Klasse nicht SpywareApp, sondern XYZSecurity nennen, würde kein automatisches Security-Pattern Alarm schlagen. Das Problem ist nicht die Syntax, sondern das kompromittierende Architekturmuster.
 
 
 ##  Die Tarnung: Warum Security-Scanner machtlos sind
