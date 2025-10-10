@@ -134,7 +134,7 @@ Google als alleinigen Schuldigen zu deklarieren, wäre falsch – sie vertrauen 
 
 **Wichtig:** Meine begrenzte Kotlin-Kenntnis ist irrelevant – API-Missbrauch, Security-Bypass, Localhost-Sicherheit und Security-Patterns sind universell. Wer die Logik versteht, versteht Angriff und Abwehr. Sonst hätte ich dies nicht auf meinem **ungerooteten Android 15** umsetzen können als Kotlin-Noob!
 
-**Siehe den nach angeblich Best Practices gebauten [DnsVpnService.kt](DnsVpnService.kt)** 
+**Siehe den nach angeblich Best Practices gebauten [DnsVpnService.kt](DnsVpnService.kt)**  - Die KI lobt den Code, weil sie Syntax und Muster bewertet — nicht Systemkontext und Seiteneffekte. Disaster!
 
 ###  VERPFLICHTENDE LEKTÜRE:
 - [Dokumentation: Häufige DNS‑Sicherheitsfehler (kurz & praktisch)](dns.md)
