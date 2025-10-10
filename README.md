@@ -24,10 +24,11 @@ class SpywareApp : VpnService() {
         val builder = Builder()
             .addAddress("10.0.0.2", 24)
             .addRoute("0.0.0.0", 0)  // ALLEN Traffic sehen – DAS NETZWERK GEHÖRT MIR.
-        establish() // Fertig. Game Over. Das DNS-Fundament ist gebrochen.
+        establish() // Fertig. Game Over. Das DNS-Fundament ist gebrochen.  
     }
 }
 ```
+
 
 ##  Die Tarnung: Warum Security-Scanner machtlos sind
 
