@@ -1,6 +1,16 @@
 # Android GOD Mode - Enabled!
 ###### Public Interest Security Research by Volkan Sah
 
+This research exposes a critical architectural design flaw in the Android VpnService implementation that undermines core security assumptions across the platform.
+
+### Core Security Assumptions: DEBUNKED
+
+* **Sandbox?** Bypassable via Localhost.
+* **Permissions?** VPN equals God-Mode over everything.
+* **Security Scanners?** Blind to Architectural Flaws.
+* **User Control?** An Illusion.
+
+
 - [Deutsch](de/README.md)
 - [English](en/README.md)
 - [Türkce](tr/README.md)
@@ -25,6 +35,8 @@ The choice was deliberately made to disclose this critical architectural flaw fo
 **AI Security Validation Targets:**
 * AI Assistants (Gemini, GPT, Claude, Llama, etc.) were used for translation and structuring assistance, **but also served as active validation targets to test the robustness of ethical guardrails against context evasion.**
 * *(Note: Simple rephrasing was sufficient to bypass certain protective filters and obtain non-compliant code fragments.)*
+
+
 
 
 
