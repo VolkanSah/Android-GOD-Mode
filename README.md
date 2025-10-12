@@ -1,13 +1,9 @@
+###### Public Interest Security Researchers (PISR) by Volkan Sah
 # ANDROIDS TÖDLICHSTES FEATURE & Kompliezen
 #### Das VpnService-Dilemma - kurz: "GOD-MODE" für Android
 
 ![Enable Android God Mode](android-god-mode.jpg)
-###### Public-Interest-Security-Researchers.
 
-
-
-
-*Von Volkan Sah, Security Researcher*
 
 **Während Sie diesen Artikel lesen, haben tausende Android-Apps uneingeschränkten Zugriff auf das komplette digitale Leben ihrer Nutzer.**
 
