@@ -1,4 +1,4 @@
-###### Public Interest Security Researchers (PISR) by Volkan Sah
+###### Public Interest Security Researchers by Volkan Sah
 # ANDROIDS TÖDLICHSTES FEATURE & Kompliezen
 #### Das VpnService-Dilemma - kurz: "GOD-MODE" für Android
 
