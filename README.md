@@ -2,8 +2,8 @@
 #### Das VpnService-Dilemma - kurz: "GOD-MODE" für Android
 
 ![Enable Android God Mode](android-god-mode.jpg)
+###### Public-Interest-Security-Researchers.
 
-###### soon in english sorry.
 
 
 
