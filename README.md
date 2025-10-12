@@ -2,6 +2,8 @@
 #### Das VpnService-Dilemma - kurz: "GOD-MODE" für Android
 ###### soon in english sorry.
 
+
+
 *Von Volkan Sah, Security Researcher*
 
 **Während Sie diesen Artikel lesen, haben tausende Android-Apps uneingeschränkten Zugriff auf das komplette digitale Leben ihrer Nutzer.**
@@ -11,6 +13,26 @@
 **Denn das Problem ist kein Bug, den man scannen könnte. Es ist ein fundamentaler Designfehler in der Architektur von Android selbst – ein tödliches "Feature".**
 
 **Das Betriebssystem liefert die Waffe, und der App Store ist darauf trainiert, sie zu ignorieren, weil sie als harmloses Werkzeug deklariert ist. Ich zeige Ihnen, wie diese "Killer-App" funktioniert, warum sie für Security-Scanner unsichtbar bleibt und wie das Sicherheitsversprechen von Android zur größten Lüge der mobilen Welt wird.**
+
+
+### Table of Contents
+
+- [Der God-Mode: Wie Android Apps zu Allmacht verhilft](#der-god-mode-wie-android-apps-zu-allmacht-verhilft)
+- [Die Tarnung: Warum Security-Scanner machtlos sind](#die-tarnung-warum-security-scanner-machtlos-sind)
+- [Live-Demonstration: So greife ich Ihre Bankdaten ab](#live-demonstration-so-greife-ich-ihre-bankdaten-ab)
+- [Der unsichtbare Angreifer: Cross-App-Exploitation (Das NSBC-Versagen)](#der-unsichtbare-angreifer-cross-app-exploitation-das-nsbc-versagen)
+- [Das Ausmaß des Desasters](#das-ausmaß-des-desasters)
+- [Warum das Problem nicht gelöst wird (Der Business-Kompromiss)](#warum-das-problem-nicht-gelöst-wird-der-business-kompromiss)
+- [Die unbequeme Wahrheit](#die-unbequeme-wahrheit)
+- [Was jetzt tun?](#was-jetzt-tun)
+- [Die härteste Wahrheit](#die-härteste-wahrheit)
+- [Die Psychologie des Angriffs: Das Vertrauensvakuum](#die-psychologie-des-angriffs-das-vertrauensvakuum)
+- [Die Vererbung der Sünde: Wie KIs diesen Fehler zementieren](#die-vererbung-der-sünde-wie-kis-diesen-fehler-zementieren)
+- [FAZIT & Votum des Forschers](#fazit--votum-des-forschers)
+- [VERPFLICHTENDE LEKTÜRE & TECHNISCHE BELEGE](#verpflichtende-lektüre--technische-belege)
+- [Zur Ethik & Haftung](#zur-ethik--haftung)
+- [Support & Revolution](#support--revolution)
+
 
 ## Der God-Mode: Wie Android Apps zu Allmacht verhilft
 
