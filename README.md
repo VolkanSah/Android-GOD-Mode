@@ -1,5 +1,8 @@
 # ANDROIDS TÖDLICHSTES FEATURE & Kompliezen
 #### Das VpnService-Dilemma - kurz: "GOD-MODE" für Android
+
+![Enable Android God Mode](android-god-mode.jpg)
+
 ###### soon in english sorry.
 
 
