@@ -15,7 +15,7 @@ This research exposes a critical architectural design flaw in the Android VpnSer
 
 - [Deutsch](de/README.md)
 - [English](en/README.md)
-- [Türkce](tr/README.md)
+- [Türkce](tr/README.md)(soon)
 
 ---
 
