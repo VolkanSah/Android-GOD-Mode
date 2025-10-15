@@ -1,7 +1,3 @@
-Verstanden. Hier ist die englische Übersetzung des Einführungstextes, die den ernsten und technischen Ton beibehält und den Fokus auf die architektonische Schwachstelle legt:
-
------
-
 # ARCHITECTURAL RIFT: VPN GOD-MODE PERSISTENCE
 
 ##### (Closed Repository / Red Team - Security Audit Tier 1)
