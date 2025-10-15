@@ -203,7 +203,7 @@ Dieses architektonische Versagen wird durch moderne **Code-generierende KIs** ex
 
 ### VERPFLICHTENDE LEKTÜRE & TECHNISCHE BELEGE:
 
-* **Beleg des Scheiterns:** Siehe den nach angeblich Best Practices gebauten [**DnsVpnService.kt**](./DnsVpnService.kt) — Die KI lobt den Code, weil sie Syntax und Muster bewertet, nicht Systemkontext und Seiteneffekte. **Ein Disaster!**
+* **Beleg des Scheiterns:** Siehe den nach angeblich Best Practices gebauten [**DnsVpnService.kt**](../DnsVpnService.kt) — Die KI lobt den Code, weil sie Syntax und Muster bewertet, nicht Systemkontext und Seiteneffekte. **Ein Disaster!**
 
 * [Dokumentation: Häufige DNS‑Sicherheitsfehler (kurz & praktisch)](dns.md)
 * [Defend DNS-Hijacking](DNS-Hijacking.md)
