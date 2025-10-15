@@ -211,15 +211,15 @@ This architectural failure is exponentially exacerbated by modern **code-generat
 
 ### MANDATORY READING & TECHNICAL EVIDENCE:
 
-  * **Proof of Failure:** See the [**DnsVpnService.kt**](https://www.google.com/search?q=DnsVpnService.kt) built supposedly according to best practices — The AI praises the code because it evaluates syntax and patterns, not system context and side effects. **A disaster\!**
+  * **Proof of Failure:** See the [**DnsVpnService.kt**](../DnsVpnService.kt) built supposedly according to best practices — The AI praises the code because it evaluates syntax and patterns, not system context and side effects. **A disaster\!**
 
-  * [Documentation: Common DNS Security Flaws (Short & Practical)](https://www.google.com/search?q=dns.md)
+  * [Documentation: Common DNS Security Flaws (Short & Practical)](dns.md)
 
-  * [Defend DNS-Hijacking](https://www.google.com/search?q=DNS-Hijacking.md)
+  * [Defend DNS-Hijacking](DNS-Hijacking.md)
 
-  * [Architectural Types that Enable DNS-MitM](https://www.google.com/search?q=DNS%E2%80%91MitM.md)
+  * [Architectural Types that Enable DNS-MitM](DNS‑MitM.md)
 
-  * [Think like a BlackHat-Hacker](https://www.google.com/search?q=systemerror.md)
+  * [Think like a BlackHat-Hacker](systemerror.md)
 
 ### Volkan Kücükbudak (Security Researcher)
 
