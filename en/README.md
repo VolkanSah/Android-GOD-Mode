@@ -1,8 +1,7 @@
 # ANDROID'S DEADLIEST FEATURE & ACCOMPLICES
-
+![Enable Android God Mode](../android-god-mode.jpg)
 ##### The VpnService Dilemma – In short: "GOD-MODE" for Android
 
------
 
 **As you read this article, thousands of Android apps have unrestricted access to the complete digital lives of their users.**
 
