@@ -1,5 +1,8 @@
 # ANDROID'S DEADLIEST FEATURE & ACCOMPLICES
+###### Public Interest Security Researchers by Volkan Sah
+
 ![Enable Android God Mode](../android-god-mode.jpg)
+
 ##### The VpnService Dilemma – In short: "GOD-MODE" for Android
 
 
