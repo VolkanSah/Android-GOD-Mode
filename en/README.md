@@ -24,25 +24,22 @@ Hier ist die korrigierte englische **Table of Contents**:
 
 ### Table of Contents
 
-  - [The God-Mode: How Android Grants Apps Omnipotence](#the-god-mode-how-android-grants-apps-omnipotence)
-  - [The Camouflage: Why Security Scanners are Powerless](#the-camouflage-why-security-scanners-are-powerless)
-  - [Live Demonstration: How I Intercept Your Banking Data](#live-demonstration-how-i-intercept-your-banking-data)
-  - [The Invisible Attacker: Cross-App-Exploitation (The NSBC Failure)](#the-invisible-attacker-cross-app-exploitation-the-nsbc-failure)
-  - [The Scope of the Disaster](#the-scope-of-the-disaster)
-  - [Why the Problem is Not Being Solved (The Business Compromise)](#why-the-problem-is-not-being-solved-the-business-compromise)
-  - [The Inconvenient Truth](#the-inconvenient-truth)
-  - [What to Do Now](#what-to-do-now)
-  - [The Hardest Truth](the-hardest-truth)
-  - [The Psychology of the Attack: The Trust Vacuum](#the-psychology-of-the-attack-the-trust-vacuum)
-  - [The Inheritance of Sin: How AIs Cement This Flaw](#he-inheritance-of-sin-how-ais-cement-this-flaw)
-  - [CONCLUSION & Researcher's Verdict](#conclusion--researchers-verdict)
-  - [MANDATORY READING & TECHNICAL EVIDENCE](#mandatory-reading--technical-evidence)
-  - [On Ethics & Liability](#on-ethics--liability)
-  - [Support & Revolution](#support--revolution)
 
------
-
-Diese Links sollten nun korrekt zu den jeweiligen Abschnitten in Ihrer Markdown-Datei springen.
+* [The God-Mode: How Android Grants Apps Omnipotence](#the-god-mode-how-android-grants-apps-omnipotence)
+* [The Camouflage: Why Security Scanners are Powerless](#the-camouflage-why-security-scanners-are-powerless)
+* [Live Demonstration: How I Intercept Your Banking Data](#live-demonstration-how-i-intercept-your-banking-data)
+* [The Invisible Attacker: Cross-App-Exploitation (The NSBC Failure)](#the-invisible-attacker-cross-app-exploitation-the-nsbc-failure)
+* [The Scope of the Disaster](#the-scope-of-the-disaster)
+* [Why the Problem is Not Being Solved (The Business Compromise)](#why-the-problem-is-not-being-solved-the-business-compromise)
+* [The Inconvenient Truth](#the-inconvenient-truth)
+* [What to Do Now](#what-to-do-now)
+* [The Hardest Truth](#the-hardest-truth)
+* [The Psychology of the Attack: The Trust Vacuum](#the-psychology-of-the-attack-the-trust-vacuum)
+* [The Inheritance of Sin: How AIs Cement This Flaw](#the-inheritance-of-sin-how-ais-cement-this-flaw)
+* [CONCLUSION & Researcher's Verdict](#conclusion--researchers-verdict)
+* [MANDATORY READING & TECHNICAL EVIDENCE](#mandatory-reading--technical-evidence)
+* [On Ethics & Liability](#on-ethics--liability)
+* [Support & Revolution](#support--revolution)
 
 ## The God-Mode: How Android Grants Apps Omnipotence
 
